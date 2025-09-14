@@ -1,0 +1,61 @@
+\begin{tikzpicture}
+    [scale=0.5, transform shape,
+    node distance=65mm,
+    inner sep=3pt,
+    auto,
+    block/.style={
+        draw,
+        thick,
+        fill=green!40,
+        text width=38mm,
+        align=center,
+        minimum height=10mm
+    },
+    line/.style={
+        draw, thick, ->, shorten >=2pt
+    },
+    dashedline/.style={
+        draw, thick, ->, dashed, shorten >=2pt, color=black!50
+    },
+    week/.style={anchor=south west, text width=28mm},
+    red/.style={block, draw=red, fill=red!40},
+    orange/.style={block, draw=orange, fill=orange!40},
+    yellow/.style={block, draw=yellow, fill=yellow!40},
+    green/.style={block, draw=green, fill=green!40},
+    violet/.style={block, draw=violet, fill=violet!40},
+    blue/.style={block, draw=blue!40, fill=blue!20},
+    agile/.style={block, draw=gray, fill=gray!10,inner sep=3mm}
+    ]
+
+    % Samantektarverkefni
+    \node[week] (themecapstone) at (0,-75mm) {Vika 11--14  Capstone-verkefni};
+    \node[blue, right of=themecapstone, xshift=70mm, label=below:\textbf{Verkefni}] (capstone) {Teymi (tCAP)};
+    % Endurgjöf milli teyma
+    \draw [line] (capstone) edge[loop above] (capstone);
+    \node[blue, right of=capstone, label=below:\textbf{Ígrundun}] (capref) {Nemandi (iCAP)};
+    \draw[line] (capstone) to (capref);
+
+    % Litur/lotur
+    \foreach \week/\theme/\color/\pos in {1--2/Gagnasiðfræði/red/1, 3--4 /Mállíkön/orange/2, 5--6/Leiðbeint nám/yellow/3, 7--8 /Klösun/green/4, 9--10/Ferlagreining/violet/5}{
+        \node[week] (week\pos) at (0,-\pos*10mm) {Vika \week\\\theme};
+        \node[\color, right of=week\pos, xshift=-50+10*\pos,label=below:\textbf{Undirbúningur}] (RAT\pos)  {Nemandi (iRAT)\\Teymi (tRAT)};
+        \node[\color, right of=RAT\pos,label=below:\textbf{Verkefni}] (APP\pos) {Teymi (tAPP)};
+        \node[\color, right of=APP\pos,label=below:\textbf{Ígrundun}] (REF\pos) {Nemandi (iREF)};
+
+        % Línur milli eininga
+        \path [line] (RAT\pos) -- (APP\pos);
+        \path [line] (APP\pos) -- (REF\pos);
+
+        % Jafningjamat innan teymis
+        \draw [line] (APP\pos) edge[loop above] (APP\pos);
+        
+        % Tengingar við samantektarverkefni
+        \path [dashedline] (APP\pos.east) to[out=-20, in=70] (capstone.north east);
+        \path [dashedline] (REF\pos.east) to[out=-30, in=40] (capstone.east);
+    }
+    \begin{scope}[on background layer]
+    \node[agile,fit=(RAT1) (RAT5),label=above:{\textbf{Áætlun spretts (sprint planning)}}] () {};
+    \node[agile,fit=(APP1) (APP5),label=above:{\textbf{Sprettur (sprint)}}] () {};
+    \node[agile,fit=(REF1) (REF5),label=above:{\textbf{Verkefnalisti (backlog)}}] () {};
+    \end{scope}
+\end{tikzpicture}

@@ -1,0 +1,103 @@
+\documentclass{article}
+% https://www.ntnu.no/ojs/index.php/njse/about/submissions#authorGuidelines
+
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{cleveref}
+
+\title{Shaping Real-World Competencies: Business Intelligence Course Revision}
+
+\author{Helga Ingimundardóttir}
+%\affiliation{Industrial Engineering, University of Iceland, Reykjavík, Iceland}
+%\email{helgaingim@hi.is}
+
+\usepackage{natbib}
+
+%\keywords{business intelligence education, course redesign, problem-based learning, team-based learning} %% First letter not capped
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent
+% TODO: Write a brief abstract summarizing the main objectives, methods, and findings of the course revision. Maximum 300 words.
+This paper discusses the revision of a Business Intelligence (BI) course to better align with real-world competencies and industry expectations. The course was redesigned using Understanding by Design (UbD) and Problem-Based Learning (PBL) principles, incorporating a capstone project and industry collaboration. The results indicate improved student engagement and satisfaction with the practical approach. % TODO: Refine and expand upon findings in the abstract.
+\end{abstract}
+\noindent 
+% YELLOW - PROBLEM
+The first time I taught Business Intellgience (BI), collaborating with a local company highlighted a disconnect; they found student presentations lacking a broader, implementable perspective. The teaching survey also pointed out the intense workload. A \href{https://aurora-universities.eu/louis/}{LOUIS}\footnote{Learning Outcomes in University for Impact on Society (LOUIS) initiative aims to enhance academic and personal learning outcomes in university courses by linking broad competence frameworks to specific student performance and growth, supporting the Aurora Education Vision of preparing graduates to contribute meaningfully to society.}  workshop helped identify key learning outcomes, guiding me to revamp the course using \textit{Understanding by Design} (UbD) principles to align instructional activities and assessments with defined goals \cite{wiggins2005understanding}.
+
+% GREEN - ACTION
+I adopting a \textit{Problem-Based Learning} (PBL) model, highlighted by a capstone project involving a consistent external partner. This new approach aimed to integrate practical applications with core BI methodologies to deepen students' understanding of real-world challenges. Incorporating elements of PBL further enhances the educational experience by encouraging students to engage in active problem-solving and critical thinking \cite{barrows1980problem}, essential business intelligence skills.
+
+\begin{quote}
+The capstone project challenges students to synthesize diverse skills into real-world applications, embodying practical, impact-driven education. By working in large groups, students engage in collaborative problem-solving to deliver actionable results that the company can incorporate into its operations. This provides students with a meaningful, hands-on experience and prepares them for the teamwork and collaborative problem-solving they will encounter in the workplace post-university. This approach aligns with the principles of constructive alignment, ensuring that teaching activities and assessments are directly linked to learning outcomes \cite{biggs_constructive}. 
+\end{quote}
+
+Additional feedback from graduated students helped. They appreciated the focus on \textit{Learning-by-Doing} (LbD), which involved engaging in the entire data analysis process, including data collection, method application, and presenting results. However, they suggested more proactive GitHub training to enhance familiarity with essential tools. They noted that while team-based projects promoted deep engagement, they also resulted in workload disparities across team members.
+Despite these challenges, students described the unconventional teaching methods focused on LbD as student-centered and effective for maximizing engagement and output. They found that LbD, a hands-on approach, helped them understand and appreciate the subject, making it more accessible and less overwhelming, aligned with \cite{kolb1984experiential}.
+
+The resulting curriculum overhaul emphasizes student empowerment and shifts my role to facilitator and Project Manager. I enhanced the course's thematic coherence and practical relevance by using consistent datasets and properly integrating GitHub Classroom. This technology streamlined code distribution and assignment iteration, supporting large projects through proper version control, facilitating peer review, and preparing students for the modern workplace.
+
+To further support students, I integrated more online resources to familiarize them with these tools. Additionally, I invited colleagues from my business network to discuss various aspects of the data scientist role in the real world, providing students with perspectives beyond my own.
+
+As a result, the BI course has seen consistently high attendance, highlighting its effectiveness in fostering a comprehensive understanding of course material and improving student outcomes. Throughout the semester, attendance was almost perfect, with students participating via \textit{Microsoft Teams} if they couldn't attend in person\footnote{This high level of attendance is attributed to creating a dynamic and inviting environment where students felt comfortable, supported, and recognized the benefits of attending class together. A strong sense of community and connectedness can significantly increase attendance and academic satisfaction, even when attendance is not compulsory \cite{freeman2007sense}.}. This approach reflects the strategies discussed by \cite{biggs_constructive, biggs_university} in promoting quality learning through student-centered and outcome-based teaching methods and the backward design principles of UbD.
+
+
+The course had three main deliverables: a high-level presentation for the stakeholders of the company they had been working for, a technical report, and a code repository so that the company could follow in their footsteps and recreate their results themselves.
+
+The modules throughout the semester were considered drafts and revisited in the final weeks for improvement. Students could redo parts completely or adjust to integrate older work better with newer content. Significant improvements were evident when they revised the assignments, and the students themselves noticed the impact. I asked the students to reflect on their work and the course overall, which provided valuable feedback. The consensus was that the course was demanding but also fun and educational. They appreciated how it bridged the gap from theoretical knowledge to real-world applications and enhanced their understanding of long-term teamwork.
+
+% PINK - RESULTS 
+One student who initially complained to me about the flipped classroom structure and desired more structured guidance ultimately recognized the benefits of independent learning. They claimed that BI taught them the most throughout their undergraduate studies--high praise indeed.
+
+By working on the same dataset throughout the semester, students significantly improved their performance in the final module compared to the previous year. While the final module had the same brief and dataset, the students now had the advantage of working with the same company throughout the other modules. This broader perspective enabled them to better understand and address the challenges in the final module. Consequently, the company was much happier with the results and saw a clear use case to reimplement the students' work themselves.
+
+I acknowledge the substantial workload in the teaching survey. To address this, I plan to integrate one module into another class I teach and introduce a warm-up module focusing on team building, trust, and brainstorming themes for upcoming modules. Teams with a consistent theme throughout presented better results, while others struggled to apply a cohesive theme retroactively.
+
+The iteration of this course has yielded promising results, bringing me closer to my objective: to give students a head start in the workplace and foster a healthy environment for constructive teamwork.
+
+
+
+\section{Introduction}
+% TODO: Expand on the introduction to contextualize the study within existing literature on SoTL and course design.
+The first iteration of the BI course revealed a disconnect between student outputs and industry expectations, particularly in the application of BI methodologies in broader, implementable contexts. Feedback from a teaching survey highlighted the intense workload and limited real-world application in student presentations. 
+
+A LOUIS workshop (\href{https://aurora-universities.eu/louis/}{Learning Outcomes in University for Impact on Society (LOUIS)}) guided the identification of key learning outcomes, which informed the course's redesign using UbD principles to align instructional activities and assessments with these goals \cite{wiggins2005understanding}. This paper outlines the course revision process, implementation, and outcomes, emphasizing the shift towards practical, impact-driven education.
+
+\section{Methods}
+% TODO: Provide a detailed description of the methodology used, including the UbD framework and PBL model integration.
+The course was restructured around a Problem-Based Learning model, incorporating a capstone project with a consistent external partner. This approach aimed to integrate practical applications of BI with core methodologies, enhancing students' understanding of real-world challenges \cite{barrows1980problem}. The capstone project required students to synthesize various skills into actionable outcomes, promoting teamwork and collaborative problem-solving, aligned with the principles of constructive alignment \cite{biggs_constructive}.
+
+\begin{quote}
+The capstone project challenges students to apply diverse skills in real-world contexts, providing hands-on experience that mirrors workplace expectations. Students worked in large groups to solve problems collaboratively, delivering results that the partner company could implement. This approach not only engages students in practical applications but also prepares them for the teamwork dynamics prevalent in modern workplaces.
+\end{quote}
+
+\section{Findings}
+% TODO: Include quantitative data where possible, such as student feedback statistics, course performance metrics, or attendance records.
+Feedback from students indicated a positive reception to the Learning-by-Doing approach, with particular appreciation for engaging in the entire data analysis process. Suggestions for improved GitHub training were noted, as were challenges related to team workload disparities.
+
+The course's thematic coherence was enhanced by integrating consistent datasets and utilizing GitHub Classroom for streamlined code distribution and peer review. This not only supported large projects but also prepared students for professional practices involving version control and collaborative coding.
+
+\section{Discussion}
+% TODO: Expand the discussion to relate findings to broader educational practices and theories, such as experiential learning or SoTL principles.
+The course revision succeeded in aligning learning activities with intended outcomes, fostering student engagement and a deeper understanding of BI applications. By maintaining consistent datasets and involving industry professionals, the course bridged the gap between academic learning and practical application. Future iterations will consider incorporating a module focused on team dynamics to address workload disparities noted by students.
+
+\section{Conclusion}
+% TODO: Summarize the key takeaways and suggest areas for future improvement or further research.
+The BI course revision, guided by UbD and PBL principles, significantly enhanced student engagement and practical competency. High attendance rates, including virtual participation via Microsoft Teams, reflect the course's success in creating an inviting and effective learning environment. The iterative nature of the course allows for ongoing refinements to better meet student and industry needs.
+
+
+The course featured three main deliverables: a stakeholder presentation, a technical report, and a code repository, ensuring that students' work had clear, practical applications.
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\appendix
+
+\section{Example Appendix Section}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+\end{document}
