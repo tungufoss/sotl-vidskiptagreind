@@ -2,6 +2,7 @@
 title: "Viðskiptagreind sem brú milli náms og starfs"
 author:
   - name: Helga Ingimundardóttir
+    orcid: 0000-0002-2780-3546
     affiliation: Iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, Háskóli Íslands
 date: "2025"
 date-format: "YYYY"
@@ -15,13 +16,15 @@ citation:
   url: https://setberg.hi.is/sites/setberg.hi.is/files/2026-03/HI-Kennslurit_2025_Vidskiptagreind.pdf
 ---
 
-::: {.callout-note appearance="simple"}
+::: {.pub-note}
 Greinin birtist í *Tímariti Kennslumiðstöðvar Háskóla Íslands*, 12(1), 2025, bls. 46–49.
 [Útgefin útgáfa (PDF)](https://setberg.hi.is/sites/setberg.hi.is/files/2026-03/HI-Kennslurit_2025_Vidskiptagreind.pdf) ·
 [Tímarit Kennslumiðstöðvar HÍ](https://setberg.hi.is/is/timarit-kennslumidstodvar-haskola-islands)
 :::
 
+::: {.author-photo}
 ![Mynd: © Tryggvi Már Gunnarsson](img/helga.jpg){fig-alt="Helga Ingimundardóttir"}
+:::
 
 # Inngangur
 
@@ -71,7 +74,7 @@ LOUIS-hæfniramminn [@auroraLOUIS] er verkfæri sem þróað var innan Aurora-h�
 
 Þessir þættir voru sérstaklega mikilvægir í verkefnavinnu námskeiðsins, þar sem nemendur þurftu bæði að sækja og greina gögn, finna lausnir á raunhæfum viðfangsefnum og vinna saman að framsetningu niðurstaðna. Ég notaði lykilnámsmarkmiðin úr LOUIS til að endurskoða námskeiðið með aðferðarfræði *skilningsmiðaðs námsmats* (e. *Understanding by Design*, UbD). Samkvæmt @wiggins2005understanding er lykilatriði UbD að tryggja að kennsluaðferðir séu í samræmi við skilgreind námsmarkmið.
 
-![LOUIS-hæfniþættirnir 16, þar sem áhersluatriði námskeiðsins *Viðskiptagreind* eru sérstaklega merkt. Sjá @auroraLOUIS.](figures/LCF-tikz-is){#fig-louis-grid}
+![LOUIS-hæfniþættirnir 16, þar sem áhersluatriði námskeiðsins *Viðskiptagreind* eru sérstaklega merkt. Sjá @auroraLOUIS.](figures/LCF-tikz-is){#fig-louis-grid width="100%"}
 
 # Verkefnamiðuð nálgun og samantektarverkefni
 
@@ -93,7 +96,7 @@ Flæði námskeiðsins sést á mynd -@fig-course-flow. Þetta fyrirkomulag haf�
 
 Með því að vinna í stórum hópum gátu nemendur tekið þátt í samstarfi sem skilaði fyrirtækinu nothæfum niðurstöðum. Þetta skapaði hagnýta reynslu sem undirbjó nemendur fyrir framtíðarsamstarf í sambærilegu vinnuumhverfi eftir útskrift. Nálgunin samræmdist einnig hugmyndafræði *uppbyggilegrar samhæfingar* (e. *constructive alignment*), þar sem kennsluaðferðir og námsmat tengdust beint við námsmarkmiðin [@biggs_constructive].
 
-![Flæði námskeiðsins frá undirbúningi til samantektarverkefnis. Hver lota tekur tvær vikur, en síðustu vikurnar fara í endurvinnslu og samþættingu.](figures/course-flow-is){#fig-course-flow}
+![Flæði námskeiðsins frá undirbúningi til samantektarverkefnis. Hver lota tekur tvær vikur, en síðustu vikurnar fara í endurvinnslu og samþættingu.](figures/course-flow-is){#fig-course-flow width="100%"}
 
 ## Jafningjamat og -rýni
 

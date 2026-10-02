@@ -1,6 +1,6 @@
 # Viðskiptagreind sem brú milli náms og starfs
 
-Helga Ingimundardóttir
+Helga Ingimundardóttir · ORCID [0000-0002-2780-3546](https://orcid.org/0000-0002-2780-3546)
 
 Published in *Tímarit Kennslumiðstöðvar Háskóla Íslands*, 12(1), 2025, pp. 46–49.
 
