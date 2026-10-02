@@ -3,8 +3,6 @@
 index_files/
 index.tex
 
-# Published journal PDF: linked from the README, not redistributed
-HI-Kennslurit_2025_Vidskiptagreind.pdf
 
 # LaTeX build output
 *.aux

@@ -3,8 +3,12 @@ project:
   output-dir: _site
   render:
     - index.qmd
+  resources:
+    - index.pdf
 
 lang: is
+language:
+  other-links-title: Önnur snið
 bibliography: references.bib
 csl: apa.csl
 link-citations: true
@@ -18,10 +22,7 @@ format:
       light: cosmo
       dark: darkly
     appendix-cite-as: display
-  pdf:
-    default-image-extension: pdf
-    documentclass: article
-    papersize: a4
-    geometry: margin=25mm
-    colorlinks: true
-    fig-pos: htb
+    other-links:
+      - text: PDF (útgefin grein)
+        icon: file-pdf
+        href: index.pdf
