@@ -1,0 +1,27 @@
+project:
+  type: default
+  output-dir: _site
+  render:
+    - index.qmd
+
+lang: is
+bibliography: references.bib
+csl: apa.csl
+link-citations: true
+
+format:
+  html:
+    default-image-extension: svg
+    toc: true
+    toc-title: Efnisyfirlit
+    theme:
+      light: cosmo
+      dark: darkly
+    appendix-cite-as: display
+  pdf:
+    default-image-extension: pdf
+    documentclass: article
+    papersize: a4
+    geometry: margin=25mm
+    colorlinks: true
+    fig-pos: htb

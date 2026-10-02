@@ -1,0 +1,141 @@
+---
+title: "Viðskiptagreind sem brú milli náms og starfs"
+author:
+  - name: Helga Ingimundardóttir
+    affiliation: Iðnaðarverkfræði-, vélaverkfræði- og tölvunarfræðideild, Háskóli Íslands
+date: "2025"
+date-format: "YYYY"
+citation:
+  type: article-journal
+  container-title: Tímarit Kennslumiðstöðvar Háskóla Íslands
+  volume: 12
+  issue: 1
+  page: 46-49
+  issued: "2025"
+  url: https://setberg.hi.is/sites/setberg.hi.is/files/2026-03/HI-Kennslurit_2025_Vidskiptagreind.pdf
+---
+
+::: {.callout-note appearance="simple"}
+Greinin birtist í *Tímariti Kennslumiðstöðvar Háskóla Íslands*, 12(1), 2025, bls. 46–49.
+[Útgefin útgáfa (PDF)](https://setberg.hi.is/sites/setberg.hi.is/files/2026-03/HI-Kennslurit_2025_Vidskiptagreind.pdf) ·
+[Tímarit Kennslumiðstöðvar HÍ](https://setberg.hi.is/is/timarit-kennslumidstodvar-haskola-islands)
+:::
+
+# Inngangur
+
+Á síðustu árum hefur orðið umtalsverð vakning í háskólasamfélaginu um nýjar leiðir til að efla nám og kennslu. Í því samhengi má nefna alþjóðasamstarf háskóla í Aurora-samstarfinu, aukna áherslu á gervigreind í námi og kennslu, og síaukin umræða um hvernig námshæfni tengist atvinnulífinu. Í íslensku háskólasamfélagi eru kennarar hvattir til að prófa nýjar aðferðir, brjóta upp hefðbundnar fyrirlestraraðferðir og skapa námsumhverfi sem endurspeglar bæði fræðilegan grunn og raunveruleg viðfangsefni.
+
+Í þessari grein er sagt frá reynslu minni af að taka við námskeiði í viðskiptagreind, endurskoða skipulag þess og móta nálgun sem tengir kennslufræði við áskoranir atvinnulífsins. Reynslan sýnir hvernig kennari, sem kemur aftur inn í háskólakennslu eftir áratug utan akademíunnar, getur sótt innblástur í nýjar kennsluaðferðir, tileinkað sér þær og aðlagað að eigin bakgrunni og reynsluheimi. Markmiðið var að gera námskeiðið bæði hagnýtt fyrir nemendur og raunhæft í tengslum við þær aðstæður sem bíða þeirra að loknu námi.
+
+# Aðstæður og áskoranir
+
+*Viðskiptagreind* (e. *business intelligence*) er fræðasvið sem sameinar gagnagreiningu, upplýsingatækni og viðskiptafræðilegar ákvarðanir. Hún felst í að safna, greina og túlka gögn til að styðja stefnumótun og daglega ákvarðanatöku fyrirtækja. Þetta er svið sem hefur vaxið ört, bæði í íslensku og alþjóðlegu samhengi, og kallar á fagfólk sem getur tengt saman tæknilega hæfni og skilning á viðskiptaumhverfi.
+
+Ég hafði kennt á háskólastigi áður en ég sneri frá akademíu í tæpan áratug. Þegar ég kom aftur sem stundakennari blasti við nýr veruleiki; umsjónarkennari námskeiðsins var í rannsóknaleyfi erlendis og, líkt og margir stundakennarar, starfaði ég annars staðar og átti því fá tækifæri til óformlegra samræðna um kennslu. Ég var að mörgu leyti einangruð, en ákvað að gera mitt besta með því að byggja námskeiðið upp út frá minni reynslu úr atvinnulífinu -- þannig að kennslan yrði bæði mér áreynslulítil og nemendum til gagns.
+
+Námskeiðið hafði nýlega verið stofnað og byggði á blöndu af kennsluaðferðum; hópavinnu samkvæmt *teymisnámi* (e. *Team-Based Learning*, TBL), *lausnaleitarnámi* (e. *Problem-Based Learning*, PBL) og *vendikennslu* (e. *flipped classroom*). Fyrir mig var þetta nýtt umhverfi. TBL og vendikennsla voru mér ókunnar aðferðir, á meðan PBL-hlutinn var tiltölulega grunnur og gaf takmarkað svigrúm til að tengja við raunveruleg verkefni fyrirtækja. Þarna lá áskorunin: Hvernig gæti ég tileinkað mér þessar nýju aðferðir, lagað þær að mínum bakgrunni og jafnframt þróað PBL-verkefnið þannig að það skilaði bæði dýpra námi fyrir nemendur og áþreifanlegum ávinningi fyrir samstarfsfyrirtæki?
+
+Fyrsta árið kenndi ég námskeiðið eftir minni eigin túlkun á fyrra fyrirkomulagi, með þeim aðferðum sem mér þóttu raunhæfar á þeim tíma. Það gekk þokkalega; nemendur náðu árangri og verkefnin fengu líf, en jafnframt varð ljóst að svigrúm var til frekari þróunar. Grunnurinn var traustur, en hvorki nemendur né samstarfsfyrirtæki voru fullsátt. Fyrirtækin töldu að afrakstur verkefna væri ekki nægilega hagnýtur og nemendur bentu á mikið vinnuálag og skort á samhengi milli verkefna. Þrátt fyrir metnaðarfullt upphaf var því augljóst að tækifæri voru til að skerpa á áherslum og efla námskeiðið.
+
+Haustið eftir var ég ráðin sem lektor í iðnaðarverkfræði og fékk þá umsjón með námskeiðinu. Í þeirri stöðu hafði ég mun meira frelsi til að móta námskeiðið í takt við eigin sýn og bakgrunn. Ég ákvað að nýta þetta tækifæri til að rýna dýpra í uppbyggingu þess. Til að fá sem gleggsta mynd safnaði ég sjónarmiðum frá ólíkum hagsmunaaðilum: (i) Ég fór yfir niðurstöður kennslukannana frá fyrri árum til að greina hvað hafði gengið vel og hvað mætti bæta. (ii) Ég hafði samband við útskrifaða nemendur og spurði þá hvernig þeir hefðu nýtt reynslu sína úr námskeiðinu í starfi. (iii) Ég átti í ítarlegum samtölum við samstarfsfyrirtæki um hvernig þau upplifðu samstarfið, hvaða ávinning þau hefðu haft og hvað þau vildu sjá meira af til að samstarfið skilaði þeim raunverulegum ábata.
+
+Þannig varð til skýr mynd; námskeiðið hafði verulegt svigrúm til að vaxa og skapaði mikil tækifæri, en það þurfti að skerpa á aðferðum og dýpka tengslin við atvinnulífið. Þetta varð leiðarljósið hvernig ég endurhugsaði framkvæmd námskeiðsins.
+
+# Innleiðing og fyrstu skref
+
+Fyrir mér sem kennara fólst ein helsta áskorunin í að tileinka mér aðferðafræði vendikennslu og teymisnáms. Þegar ég heyrði fyrst um vendikennslu fyrir um áratug þótti mér þessi nálgun nánast fjarstæðukennd fyrir verkfræði- og raunvísindanám. Í millitíðinni hafði hún þó fest sig í sessi við Iðnaðarverkfræðideild, og nemendur þekktu hana vel úr fyrri námskeiðum. Það breytti stöðunni; í stað þess að þurfa að kenna nemendum að tileinka sér aðferðina var mitt hlutverk að læra sjálf hvernig ég gæti best nýtt hana.
+
+*Vendikennsla* byggir á að nemendur tileinki sér efni fyrir fram með lestri eða annarri vinnu utan kennslustunda, en nýti síðan tímann með kennara til að vinna úr efninu í samræðu og verkefnum [@tucker2012flipped]. Hugmyndin snýst því um að snúa hefðbundnu fyrirkomulagi við; fyrirlesturinn fer fram heima, en úrvinnslan í kennslustund. *Teymisnám* er kerfisbundin útfærsla á vendikennslu sem hefur náð mikilli útbreiðslu, einkum í heilbrigðismenntun [@michaelsen2004team]. Þar er vendikennslan sett í skýrt afmarkað ferli sem felur í sér *einstaklingsundirbúning* (e. *individual Readiness Assurance Test*, iRAT), *teymisundirbúning* (e. *team Readiness Assurance Test*, tRAT), og *teymisverkefni* þar sem nemendur beita þekkingu sinni á raunhæf viðfangsefni (e. *team Application Phase*, tAPP). Í sumum tilvikum er einnig lögð áhersla á *einstaklingsígrundun* (e. *individual Reflection*, iREF) sem tæki fyrir kennara til að meta þátttöku og skilning hvers nemanda [@fink2003creating; @sibley2014getting]. Í þessu fyrirkomulagi er kennarinn ekki lengur hefðbundinn *fyrirlesari*, heldur sá sem mótar umgjörðina, skapar tækifæri til samvinnu og styður ferlið. Þetta hlutverk minnti mig að mörgu leyti á stöðu *verkefnastjóra* í atvinnulífinu.
+
+Til að styðja við þetta valdi ég verkfæri sem hentuðu bæði mér og nemendum. Þar sem ég hafði aldrei unnið með Canvas áður en þekkti GitHub[^1] vel úr daglegu starfi, ákvað ég að innleiða *GitHub Classroom*[^2] sem lykilverkfæri námskeiðsins. Fyrir mig var þetta kunnuglegt umhverfi; fyrir nemendur nýtt tækifæri til að kynnast verkfærum sem þeir myndu að öllum líkindum nýta síðar á vinnumarkaði.
+
+# Endurgjöf frá nemendum og fyrirtækjum
+
+Þegar nemendur unnu verkefnin var leitast við að *nýta nám í verki* (e. *Learning by Doing*, LbD) [@Bruce2012]. Í hverri lotu kynntu þeir sér nýja aðferðafræði úr sviði viðskiptagreindar og fengu dæmi um vefþjónustur og gagnasöfn sem gætu nýst þeim í verkefnum innan ákveðins iðnaðar. Nemendur þurftu sjálf að þróa *notkunartilvik* (e. *use-case*) fyrir aðferðafræðina, búa til líkan, skila skýrslu og kynna niðurstöður fyrir hagsmunaaðilum. Öll vinnan fór fram í GitHub-umhverfinu, þar sem ég fylgdist með framvindu verkefna og gat metið hæfni nemenda í að rýna vinnu teymisfélaga sinna.
+
+Þegar ég spurði þessa sömu nemendur um sex mánuðum síðar, eftir að sumir höfðu hafið störf á sviði viðskiptagreindar, lýstu þeir reynslunni mjög jákvætt. Nemendur sáu tilganginn með verkefnavinnu og upplifðu að hún hefði kennt þeim marga mikilvæga færniþætti sem þeir gátu nýtt sér strax í starfi. Verkefnin voru nemendamiðuð og hvetjandi, þar sem þau kröfðust frumkvæðis, samvinnu og sjálfstæðrar ákvarðanatöku. Þó nemendur tækju almennt vel í að kynnast GitHub strax í námi, fannst þeim erfitt að tileinka sér kerfið í byrjun og skipulagðri þjálfun hefði verið þörf snemma í námskeiðinu. Verkaskipting í teymunum var stundum ójöfn, og nemendur höfðu væntingar um jafningjamat á borð við það sem tíðkast í öðrum námskeiðum, þar sem framlag hvers einstaklings hefur áhrif á verkefnaeinkunn teymisins. Í minni útfærslu var verkefnaeinkunn hins vegar sú sama fyrir alla teymismeðlimi, en þátttaka hvers nemanda metin í sérstakri einkunn, byggð á sýnilegu framlagi í verkefninu (t.d. á GitHub) og í einstaklingsígrundun. Þessar tvær einkunnir höfðu álíka vægi, þannig að bæði teymisframlag og virkni einstaklings skiptu máli. Mér fannst þetta sanngjarnara fyrir nemendur, en upplifun þeirra var önnur, áhersla á að einstaklingsframlag þyrfti að koma skýrar fram í námsmati.
+
+Reynslan af verkefnavinnu með fyrirtæki var hins vegar flóknari. Í flestum lotum námskeiðsins sótti ég efnivið úr eigin starfsreynslu og gegndi þannig bæði hlutverki kennara og fyrirtækisins. Verkefnin byggðu því á þemum úr mínu eigin sérsviði, sem gerði mér kleift að meta niðurstöður nemenda með hliðsjón af námsmarkmiðum og fræðilegri nákvæmni. Í einni lotu tók hins vegar utanaðkomandi fyrirtæki þátt með því að útvega gögn, hlusta á kynningar og spyrja nemendur spurninga. Þá kom skýrt fram að nálganir okkar voru ólíkar: Ég gat horft framhjá smávægilegum villum ef verkefnið í heild var vel unnið, en fulltrúar fyrirtækisins misstu traust ef þeir sáu galla í undirstöðu verkefnisins, til dæmis misskilning á túlkun gagna. Fyrir þeim skipti fræðileg nákvæmni minna máli en hagnýtt notagildi og traust á niðurstöðum byggðist á hvort þær gætu nýst þeim í raunverulegu samhengi.
+
+Þessi reynsla undirstrikaði að væntingar háskóla og atvinnulífs eru ekki alltaf samhljóða og sýndi mikilvægi fjölbreyttrar framsetningar verkefna; þau þurfa að sýna bæði fræðilega dýpt og hagnýtt gildi til að uppfylla kröfur beggja aðila. Nemendur þurfa einnig að átta sig á að þegar þau kynna verkefni fyrir fyrirtæki eru væntingar öðruvísi en þegar þau kynna fyrir kennara, og því þarf að undirbúa sig á annan hátt. Þetta reynir á hæfni þeirra til að meta hvað skiptir mestu máli fyrir mismunandi áhorfendur og hvernig þau sýna framlag sitt skýrt og trúverðugt.
+
+Helstu ástæður endurhönnunar námskeiðsins voru því: (i) misræmi milli námsárangurs og væntinga atvinnulífsins, (ii) mikið vinnuálag og ójafnt skipulögð hópvinna, og (iii) þörf á að færa kennsluna nær raunverulegum viðfangsefnum og verkferlum.
+
+# LOUIS-hæfniramminn
+
+Ég hafði ekki fylgt nýjungum í kennslufræði meðan ég var frá akademíunni, og sótti því vinnustofu hjá Kennslumiðstöð Háskóla Íslands sem hluta af endurmenntun minni. Vinnustofan bauð upp á kynningu á LOUIS-hæfnirammanum og leiðsögn við að beita honum í eigin námskeiðum. Hún reyndist afar gagnleg og veitti skýra innsýn í hvernig hæfniramminn tengist námsmarkmiðum og verkefnum.
+
+LOUIS-hæfniramminn [@auroraLOUIS] er verkfæri sem þróað var innan Aurora-háskólasamstarfsins til að styrkja almenn fræðileg og persónuleg hæfniviðmið í háskólanámi. Hann brúar bilið milli víðtækra lýsinga á hæfni í hæfnirömmum og raunverulegrar frammistöðu nemenda með því að brjóta hæfniþætti niður í skýrari víddir og skilgreina stigvaxandi færniþrep. LOUIS inniheldur 16 almenna hæfniþætti (sjá mynd -@fig-louis-grid), til dæmis gagnrýna hugsun, skapandi hugsun og siðferðilegan rökstuðning. Kennarar eru hvattir til að velja aðeins 2--3 hæfniþætti sem tengjast námskeiðinu sterkast, annaðhvort vegna þess að þeir eru þegar til staðar eða taldir sérstaklega mikilvægir. Með því að velja fáa en viðeigandi hæfniþætti gat ég hannað námskeiðið markvissar og skapað skýrt samhengi milli námsmarkmiða, verkefna og námsmats. Í viðskiptagreind var lögð áhersla á eftirfarandi þrjá hæfniþætti úr LOUIS-hæfnirammanum: (i) *Úrlausn vandamála* (e. *problem solving*); að hanna, meta og framkvæma lausnir á opnum og flóknum viðfangsefnum. (ii) *Upplýsingalæsi* (e. *information literacy*); að finna, meta og nýta upplýsingar og gögn á ábyrgan og árangursríkan hátt til að leysa verkefni. (iii) *Teymisvinna* (e. *teamwork*); að vinna árangursríkt í hópi, stuðla að jákvæðu samstarfi og tryggja jafna þátttöku allra hópmeðlima.
+
+Þessir þættir voru sérstaklega mikilvægir í verkefnavinnu námskeiðsins, þar sem nemendur þurftu bæði að sækja og greina gögn, finna lausnir á raunhæfum viðfangsefnum og vinna saman að framsetningu niðurstaðna. Ég notaði lykilnámsmarkmiðin úr LOUIS til að endurskoða námskeiðið með aðferðarfræði *skilningsmiðaðs námsmats* (e. *Understanding by Design*, UbD). Samkvæmt @wiggins2005understanding er lykilatriði UbD að tryggja að kennsluaðferðir séu í samræmi við skilgreind námsmarkmið.
+
+![LOUIS-hæfniþættirnir 16, þar sem áhersluatriði námskeiðsins *Viðskiptagreind* eru sérstaklega merkt. Sjá @auroraLOUIS.](figures/LCF-tikz-is){#fig-louis-grid}
+
+# Verkefnamiðuð nálgun og samantektarverkefni
+
+Námskeiðið var kennt með fyrirkomulagi *teymisnáms* (e. *Team-Based Learning*, TBL), þar sem nemendur beita verkefnamiðaðri teymisvinnu (tAPP) á raunveruleg gögn. Þessi uppbygging er kjörin til að samþætta *lausnaleitarnám* (e. *Problem-Based Learning*, PBL), þar sem nemendur takast á við opnar og flóknar áskoranir og þurfa að beita gagnrýninni hugsun, greina gögn og prófa mismunandi leiðir til lausnar [@barrows1980problem].
+
+Þrjú LOUIS-hæfniviðmið sem ég valdi -- lausnamiðuð nálgun, gagnalæsi og teymisvinna -- tengjast beint þessari TBL/PBL-nálgun. Með skýrum skilgreiningum á hverju hæfniviðmiði gat ég notað þau sem leiðarljós við að velja og móta kennsluaðferðir og verkefni á námskeiðinu, þannig að nemendur fengju tækifæri til að þróa þessa færni markvisst út misserið.
+
+Í endurskoðaðri útgáfu námskeiðsins var gerð veigamikil breyting á verkefnasniði; í stað þess að kynna nýtt gagnasafn í hverri þemalotu unnu nemendur með sama undirliggjandi gagnasafn yfir allt misserið. Eitt samstarfsfyrirtæki var okkur innan handar, útvegaði grunngögn og kom með hugmyndir sem gætu nýst þeim, sem aðstoðaði við að stilla væntingar. Nemendur gátu jafnframt sótt sér eigin ítargögn til að auðga verkefnið. Með því að nota aftur sama undirliggjandi gagnasafn gátu nemendur einbeitt sér að nýrri aðferðafræði í hverri lotu, fremur en að eyða tíma í að setja sig inn í nýtt viðfangsefni sem var ekki markmið námskeiðsins. Í hverri lotu var námsefni tengt við nýja nálgun eða aðferðafræði innan viðskiptagreindar, og út frá því voru þróuð afleidd verkefni (e. *spin-off projects*) sem byggðu á gagnasafninu. Þessi nálgun leyfði nemendum að kafa dýpra í gögnin, þróa betri skilning á viðfangsefninu og tengja ólíkar aðferðir við sama samhengi.
+
+Í lok námskeiðsins tóku nemendur þátt í samantektarverkefni kennt við *Capstone* í anda @capstone þar sem öll vinna lotanna var samþætt í eina heild. Verkefnið var unnið í samstarfi við fyrirtæki og fólst í að nemendur þróuðu heildstæða lausn fyrir það sem endurspeglaði öll viðfangsefni námskeiðsins. Með þessu móti tengdust einstakar lotur ekki aðeins innbyrðis heldur líka lokaverkefninu, sem tryggði samfellu og aukið samhengi milli áfanga námskeiðsins. Nemendur skiluðu þremur afurðum; yfirlitskynningu fyrir fulltrúa fyrirtækisins, tæknilegri skýrslu með rökstuddum og greindum aðferðum, og kóðasafni sem gerði fyrirtækinu kleift að endurskapa niðurstöður. Þessi nálgun tryggði samfellu milli lota, leyfði nemendum að þróa dýpri skilning á viðfangsefnum og auka hæfni í bæði fræðilegri greiningu og hagnýtri notkun. Samþætting fræðilegrar dýptar og raunhæfs gildis í verkefnunum gerði nemendum kleift að mæta ólíkum væntingum háskóla og atvinnulífs.
+
+Til að undirbúa nemendur fyrir verkefnavinnuna og Capstone var hefðbundnu TBL-fyrirkomulagi (iRAT/tRAT/tAPP/iREF) breytt. Í einstaklingsundirbúningi (iRAT) lagði hver nemandi fram hugmyndir um hvernig aðferðafræði lotunnar gæti nýst samstarfsfyrirtækinu, svipað hugmyndavinnu (e. *brainstorming*). Í sameiginlegum undirbúningi (tRAT) ræddu teymin hugmyndir sínar, völdu viðeigandi nálgun og mótuðu sameiginlega aðgerðaáætlun sem varð grunnur fyrir teymisverkefnið (tAPP), þar sem aðferðafræði var beitt á raunveruleg gögn fyrirtækisins. Í lokin skráðu nemendur einstaklingsbundna ígrundun (iREF), sem nýttist sem minnisbók fyrir þá sjálfa til notkunar í Capstone-verkefninu síðar.
+
+# Uppbygging námskeiðsins
+
+Námskeiðið var skipulagt sem fimm þemalotur og eitt Capstone-samantektarverkefni. Hver þemalota stóð yfir í tvær vikur og innihélt fjögur stig samkvæmt hugmyndafræði teymisnáms (iRAT/tRAT/tAPP/iREF), þar sem teymin unnu með afmarkaða aðferðafræði á sviði viðskiptagreindar. Í Capstone-verkefninu var ekki unnið með nýtt efni, heldur var fyrri vinna ítruð, endurbætt og samþætt í eina heild. Þar var notuð svipuð uppbygging: (i) Teymisverkefni í Capstone (tCAP); samþætting fyrri tAPP verkefna í heildstæða lausn. (ii) Einstaklingsbundin ígrundun á Capstone (iCAP); mat á eigin framlagi og lærdómi.
+
+Flæði námskeiðsins sést á mynd -@fig-course-flow. Þetta fyrirkomulag hafði einnig sterka skírskotun til *Agile*-vinnulíkansins [@schwaber2002agile], þar sem hver lota virkaði sem *sprettur* (e. *sprint*), tRAT sem *áætlun spretts* (e. *sprint planning*), tAPP sem *vinnan* og iREF sem *ígrundun spretts* (e. *sprint retrospective*). Ígrundunin skapaði þannig sameiginlegan *verkefnalista* (e. *backlog*), þar sem hugmyndir sem ekki var unnt að vinna strax voru skráðar sem möguleg viðfangsefni síðar. Þar sem hver ný lota hafði sína sérstöku áherslu var ekki svigrúm til að dvelja of lengi við sama efni, en hugmyndirnar gátu síðar nýst sem innblástur í tCAP. Með þessu endurspeglaði námskeiðið bæði aðferðafræði í kennslu og þau vinnubrögð sem nemendur munu væntanlega kynnast á vinnumarkaði.
+
+Með því að vinna í stórum hópum gátu nemendur tekið þátt í samstarfi sem skilaði fyrirtækinu nothæfum niðurstöðum. Þetta skapaði hagnýta reynslu sem undirbjó nemendur fyrir framtíðarsamstarf í sambærilegu vinnuumhverfi eftir útskrift. Nálgunin samræmdist einnig hugmyndafræði *uppbyggilegrar samhæfingar* (e. *constructive alignment*), þar sem kennsluaðferðir og námsmat tengdust beint við námsmarkmiðin [@biggs_constructive].
+
+![Flæði námskeiðsins frá undirbúningi til samantektarverkefnis. Hver lota tekur tvær vikur, en síðustu vikurnar fara í endurvinnslu og samþættingu.](figures/course-flow-is){#fig-course-flow}
+
+## Jafningjamat og -rýni
+
+Í TBL er *jafningjamat* (e. *peer evaluation*) þar sem nemendur meta framlag samnemenda sinna innan teymis. Þetta mat byggir oft á tölulegum kvarða og lýsandi athugasemdum og er ætlað að styðja við teymisvinnu og tryggja sanngjarna þátttöku allra.
+
+Við fyrstu kennslu á námskeiðinu tengdi ég hugtakið jafningjamat við það sem ég þekkti úr vinnunni sem *peer review*, þar sem kóða- eða textabreytingar eru yfirfarnar af samstarfsfélögum áður en þær eru samþykktar inn í verkefnið, t.d. í gegnum *pull requests* í GitHub. Þessi tenging reyndist vera mjög gagnleg kennslunálgun; nemendur lærðu bæði að nýta raunhæft og gagnlegt verkfæri úr hugbúnaðargerð og þróa jafningjamat sem virkt ferli, þar sem þeir þurfa að rýna í lausnir teymisfélaga á meðan verkefnið er í vinnslu, ekki einungis í lokin.
+
+Í þemabundnum tAPP-verkefnum fólst jafningjarýni nemenda í að fara í gegnum kóða eða texta hver annars og veita uppbyggilega endurgjöf: Nemendur spurðu spurninga, bentu á mögulegar úrbætur og ræddu lausnir. Þetta tryggði að allir meðlimir teymisins væru samstíga, jafnvel þótt verkaskiptingin væri ólík innbyrðis. Í tCAP-hluta námskeiðsins var jafningjamatið milli ólíkra teyma, þar sem teymin fóru yfir verkefni annars teymis. Slík rýni krafðist skýrrar framsetningar og leiðbeininga, sem styrkti þekkingaryfirfærslu (e. *knowledge transfer*) og gaf nemendum tækifæri til að bæta eigin verkefni með hugmyndum annarra. Þessi nálgun gerir jafningjamat virkara en í hefðbundnu TBL. Nemendur þurfa að skilja lausnir teymisfélaga og samþykkja þær fyrir hönd hópsins, þannig að ábyrgð er dreifð og líkur á að einhver ,,fljóti frítt með" minnka. Einkunn byggist á gæðum rýninnar; hvort hún sé uppbyggileg, gagnrýnin og ígrunduð. Þetta er mikilvæg færni í atvinnulífinu og nemendur geta æft sig í henni í áhættulitlu námsumhverfi, sem eykur bæði öryggi og færni.
+
+# Leiðsögn og námsmat sem lærdómsferli
+
+Hlutverk kennarans færðist frá hefðbundnum fyrirlesara til verkefnastjóra og leiðbeinanda. Nemendur fengu aukið sjálfræði til að velja nálgun og þróa lausnir, á meðan kennarinn veitti ramma, forgangsröðun og leiðsögn. Þannig var námsumhverfi mótað sem líkti eftir raunverulegum vinnuaðstæðum.
+
+Námsmat var útfært þannig að hver teymisafurð úr tAPP-þemalotunum var metin með sama matskvarða og átti við um tCAP-lokaverkefnið. Matskvarðinn byggði á flokkunum *framúrskarandi -- mjög gott -- gott -- ábótavant*. Þar sem verkefnin í þemalotum voru hugsuð sem drög að lokaskýrslu, var einkunnin hins vegar sköluð þannig að *mjög gott* gaf fullt hús stiga. Með þessu fengu teymin strax raunhæfa endurgjöf um hvernig þau stæðu með tilliti til lokaverkefnisins, án þess að vera refsað fyrir að vera á þróunarstigi.
+
+Kennslufræðilegur ávinningur þessarar nálgunar var tvíþættur; annars vegar gátu nemendur nýtt matsviðmið til að bæta verkefnin jafnt og þétt yfir misserið, hins vegar sáu þeir strax hvaða atriði gætu skilið á milli þess að verkefni teldist einfaldlega gott eða framúrskarandi. Þannig varð matsferlið sjálft að lærdómsverkfæri sem styrkti bæði gæði verkefnanna og skilning nemenda á kröfum námskeiðsins.
+
+# Niðurstöður
+
+Endurhönnunin skilaði aukinni þátttöku og ánægju nemenda. Mæting var með yfirburðum góð þrátt fyrir enga mætingarskyldu; nemendur mættu jafnvel í hópavinnutíma á Teams þegar þeir voru fjarri háskólasvæðinu. Upphaflega hafði ég áhyggjur af að nemendur myndu ekki nýta sér stoðtímana, þar sem námskeiðið byggir að miklu leyti á sjálfstæðum vinnubrögðum í langtímahópavinnu. Í staðinn var nánast fullkomin mæting hjá flestöllum nemendum, með virkri þátttöku og líflegum umræðum. Þetta var gjörólíkt öðru námskeiði sem ég kenndi sama misseri fyrir sama árgang, þar sem hefðbundið fyrirlestrarform og verkefnaskil leiddu til mun lakari mætingar og dræmrar þátttöku í tímum og skilum. Þetta háa þátttökuhlutfall í viðskiptagreind endurspeglar það sem @freeman2007sense hafa bent á, að árangursríkt námsumhverfi skapar öruggt og hvetjandi rými fyrir nemendur. Nálgunin samræmdist einnig aðferðafræði uppbyggilegrar samhæfingar og markmiðum UbD, eins og @biggs_constructive og @biggs_university lýsa því.
+
+Ég fékk einnig mun fleiri heimsóknir á skrifstofuna til að ræða verkefnið og hugmyndir en almennt tíðkast. Ljóst var að nemendur unnu vel í þessu fyrirkomulagi, lögðu mikið af mörkum og nýttu sér greiðan aðgang að leiðsögn utan kennslustundar. Vissulega var mikið verkefnaálag á kennara við yfirferð og endurgjöf, en þar sem nemendur höfðu nýtt kennslustundirnar vel til umræðu og leiðsagnar gekk yfirferðin tiltölulega hratt. Þegar kom að lokaverkefninu voru afurðirnar nær því að uppfylla hæfniviðmið námskeiðsins, þar sem teymin höfðu ítrað verkefnin í gegnum leiðsagnarmiðað námsmat.
+
+Þegar nemendur byrjuðu á Capstone-verkefninu fengu þeir tækifæri til að endurskoða fyrri verkefni til að bæta þau, og margir sýndu verulegar framfarir þegar þeir samþættu eldri vinnu sína við nýrra efni. Nemendur voru hvattir til að ígrunda eigið nám og námskeiðið, og niðurstöður þeirra urðu mun betri. Kennslukönnun benti þó til þess að nemendur upplifðu töluvert vinnuálag, sem er skiljanlegt í ljósi þess að námskeiðið krefst virkrar þátttöku, samvinnu og ítrunar verkefna. Þrátt fyrir það töldu nemendur að námskeiðið brúaði bilið milli fræðilegrar þekkingar og hagnýtra verkefna og styrkti þá í langtímahópavinnu.
+
+Nemendur lýstu námskeiðinu sem einstaklega nemendamiðuðu og þeir fundu að þessi kennsluaðferð, byggð á LbD, hámarkaði þátttöku þeirra og afrakstur. Þeir fundu að þessi hagnýta nálgun auðveldaði þeim að skilja og nýta efnið, sem gerði námskeiðið aðgengilegra og minna yfirþyrmandi, sem samrýmist kenningum @kolb1984experiential.
+
+Samstarfsfyrirtækið var ánægt með niðurstöður og sá möguleika á að nýta þær í sinni starfsemi. Ég fékk sama samstarfsfyrirtæki og árið áður, og þeim fannst munur á kynningum milli ára verulegur. Þó að vissu leyti sé ósanngjarnt að bera árgangana saman, þá skorti fyrra árið dýpt og samhengi þar sem hver lota byggði á glænýju gagnasetti úr gjörólíku viðskiptaumhverfi. Í nýja fyrirkomulaginu var sami efniviður skoðaður út frá fleiri sjónarhornum, sem skilaði sér í heildstæðari og meira aðlaðandi kynningu fyrir fyrirtækið.
+
+# Umræður, lærdómur og framhald
+
+Endurhönnun námskeiðsins í viðskiptagreind sýnir hvernig má byggja námskeið á hagnýtri hæfni og raunverulegum verkefnum með traustum kennslufræðilegum grunni. Nemendur fengu tækifæri til að takast á við óljósar og flóknar áskoranir til að þróa lausnir í samvinnu og axla ábyrgð á niðurstöðum. Slík nálgun styrkir skilning á hvernig fræðileg þekking nýtist í raunverulegum aðstæðum og hvernig markviss endurgjöf og samvinna stuðla að faglegum vinnubrögðum.
+
+Námskeiðið hófst með mikilli virkni og þátttöku nemenda. Úrvinnsla í fyrsta þemaverkefninu var þó lakari en í þeim sem fylgdu á eftir, þar sem nemendur voru enn að kynnast viðfangsefninu, mynda hópa og tileinka sér nýja aðferðafræði. Þau teymi sem héldu sama rauða þræði í gegnum öll tAPP-verkefnin áttu mun auðveldara með að samþætta afurðirnar í Capstone-verkefninu. Í framtíðinni verður lögð meiri áhersla á fyrstu vikuna til að læra inn á gögnin, efla traust innan hópa, samstilla væntingar og tryggja skýran fókus teymisins áður en farið er í aðferðafræði hverrar lotu. Slík undirbúningsvinna getur einnig dregið úr upplifðu vinnuálagi og aukið gæði lokaafurða, þar sem nemendur byggja á traustri samvinnu og dýpri skilningi á samhengi verkefnisins.
+
+Kennsla á raunverulegum verkefnum krefst þess að nemendur geri sér grein fyrir að væntingar samstarfsaðila eru oft ólíkar þeim sem þeir þekkja úr hefðbundnum námskeiðum. Gagnrýnin nálgun á gögn frá upphafi og skýr, traust framsetning niðurstaðna eru lykilatriði. Til að styðja tæknilega vinnu hefur kennsla á GitHub verið færð yfir í undanfaranámskeið í upplýsingaverkfræði, þar sem nemendur öðlast grunnfærni í verkfærunum áður en þau eru nýtt í langtímaverkefnum.
+
+Niðurstöður sýna að með skýrum námsmarkmiðum, verkefnamiðaðri nálgun og samþættingu teymisvinnu er hægt að efla hagnýta hæfni nemenda og gera námskeið að brú milli náms og starfs. Markmiðið er að undirbúa nemendur betur fyrir atvinnulífið, styrkja tengsl háskóla og samfélags og skapa heilbrigt námsumhverfi sem styður við uppbyggilega hópavinnu og raunhæf verkefni. Fyrirtækið sem tók þátt hefur lýst ánægju með breytingarnar, og unnið er áfram við að minnka vinnuálag, til dæmis með því að stilla væntingar strax í upphafi.
+
+[^1]: GitHub er alþjóðlegt vefkerfi fyrir útgáfustýringu og samvinnu í hugbúnaðargerð sem byggir á Git og er mikið notað í atvinnulífinu.
+
+[^2]: GitHub Classroom (<https://classroom.github.com>) er viðbót sem gerir kennurum kleift að skipuleggja verkefni og styðja samvinnu nemenda; þjónustan er ókeypis fyrir alla í háskólasamfélaginu.
+
+# Heimildir {.unnumbered}
+
+::: {#refs}
+:::
