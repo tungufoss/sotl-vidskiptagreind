@@ -24,3 +24,25 @@
   content: "\f8d2";
   color: #A6CE39;
 }
+
+/* Journal section labels as pills above the title */
+.quarto-title {
+  display: flex;
+  flex-direction: column;
+}
+.quarto-title .quarto-categories {
+  order: -1;
+  margin: 0 0 .75rem;
+}
+.quarto-title .quarto-category {
+  background: #2DD2C0;
+  color: #10099F;
+  border: none;
+  border-radius: 999px;
+  padding: .2rem .75rem;
+  font-size: .75rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  opacity: 1;
+}

@@ -1,5 +1,8 @@
 ---
 title: "Viðskiptagreind sem brú milli náms og starfs"
+categories:
+  - Fræðimennska náms og kennslu
+  - Námskeiðshönnun
 author:
   - name: Helga Ingimundardóttir
     orcid: 0000-0002-2780-3546
