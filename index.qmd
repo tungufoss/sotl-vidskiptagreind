@@ -98,7 +98,7 @@ Með því að vinna í stórum hópum gátu nemendur tekið þátt í samstarfi
 
 ![Flæði námskeiðsins frá undirbúningi til samantektarverkefnis. Hver lota tekur tvær vikur, en síðustu vikurnar fara í endurvinnslu og samþættingu.](figures/course-flow-is){#fig-course-flow width="100%"}
 
-## Jafningjamat og -rýni
+# Jafningjamat og -rýni
 
 Í TBL er *jafningjamat* (e. *peer evaluation*) þar sem nemendur meta framlag samnemenda sinna innan teymis. Þetta mat byggir oft á tölulegum kvarða og lýsandi athugasemdum og er ætlað að styðja við teymisvinnu og tryggja sanngjarna þátttöku allra.
 
