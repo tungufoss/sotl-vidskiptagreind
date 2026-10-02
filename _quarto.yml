@@ -4,7 +4,8 @@ project:
   render:
     - index.qmd
   resources:
-    - index.pdf
+    - HI-Kennslurit_2025_Vidskiptagreind.pdf
+    - img/
 
 lang: is
 language:
@@ -14,15 +15,15 @@ csl: apa.csl
 link-citations: true
 
 format:
-  html:
+  haskoli-islands-html:
+    lang: is
     default-image-extension: svg
-    toc: true
     toc-title: Efnisyfirlit
-    theme:
-      light: cosmo
-      dark: darkly
     appendix-cite-as: display
+    include-in-header:
+      - text: |
+          <link rel="icon" type="image/svg+xml" href="img/hi/favicon.svg">
     other-links:
       - text: PDF (útgefin grein)
         icon: file-pdf
-        href: index.pdf
+        href: HI-Kennslurit_2025_Vidskiptagreind.pdf
