@@ -22,6 +22,7 @@ format:
     toc-title: Efnisyfirlit
     appendix-cite-as: display
     css: styles.css
+    include-after-body: title-meta.html
     include-in-header:
       - text: |
           <link rel="icon" type="image/svg+xml" href="img/hi/favicon.svg">

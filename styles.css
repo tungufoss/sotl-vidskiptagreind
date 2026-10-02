@@ -25,24 +25,24 @@
   color: #A6CE39;
 }
 
-/* Journal section labels as pills above the title */
-.quarto-title {
+/* Journal section labels as pills in the title metadata ("Þema") */
+.quarto-title-meta .quarto-categories {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  gap: .3rem;
+  margin: .25rem 0 0;
 }
-.quarto-title .quarto-categories {
-  order: -1;
-  margin: 0 0 .75rem;
-}
-.quarto-title .quarto-category {
+.quarto-title-meta .quarto-category {
   background: #2DD2C0;
   color: #10099F;
   border: none;
   border-radius: 999px;
-  padding: .2rem .75rem;
-  font-size: .75rem;
-  font-weight: 600;
-  letter-spacing: .04em;
+  padding: .1rem .55rem;
+  margin: 0;
+  font-size: .65rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: .03em;
   text-transform: uppercase;
   opacity: 1;
 }
