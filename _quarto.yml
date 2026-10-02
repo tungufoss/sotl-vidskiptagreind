@@ -21,16 +21,10 @@ format:
     default-image-extension: svg
     toc-title: Efnisyfirlit
     appendix-cite-as: display
+    css: styles.css
     include-in-header:
       - text: |
           <link rel="icon" type="image/svg+xml" href="img/hi/favicon.svg">
-          <style>
-            .author-photo figcaption { text-align: right; }
-            .pub-note { background: #F5F5F5; border-left: 4px solid #2DD2C0; padding: .75rem 1rem; margin: 1rem 0 1.5rem; }
-            .pub-note p { margin: 0; }
-            .quarto-title-author-orcid img { display: none; }
-            .quarto-title-author-orcid::before { font-family: "Font Awesome 6 Brands"; font-weight: 400; content: "8d2"; }
-          </style>
     other-links:
       - text: PDF (útgefin grein)
         icon: file-pdf
